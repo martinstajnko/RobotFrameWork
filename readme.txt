@@ -1,3 +1,8 @@
+*ABOUT*
+Getting started with RobotFramework, using Python and VS Code.
+
+
+
 Install Robot framework and Selenium library
 1. $poetry add robotframework
 2. #poetry add robotframework-seleniumlibrary
